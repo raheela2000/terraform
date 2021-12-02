@@ -10,8 +10,8 @@ terraform {
 # Configure the AWS Provider
 
 provider "aws" {
-  access_key = "AKIARWIQKKJQX7IAJEE5"
-  secret_key = "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"
+  access_key = "####"
+  secret_key = "#####"
   region = var.region
  # shared_credentials_file = var.creds
   profile = "default"
